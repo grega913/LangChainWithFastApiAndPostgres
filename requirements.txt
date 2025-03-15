@@ -1,0 +1,12 @@
+langchain
+pgvector
+fastapi
+pydantic
+sqlalchemy
+python-dotenv
+icecream
+uvicorn
+langchain_openai
+langchain_core
+langchain_community
+psycopg2
